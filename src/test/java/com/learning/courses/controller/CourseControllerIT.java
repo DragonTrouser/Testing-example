@@ -17,7 +17,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class CourseControllerIT extends AbstractIntegrationTest {
 
-    private static final Long TUTOR_ID = 77L;
+    private static final Long TUTOR_ID = 100L;
 
     @Autowired
     private CourseRepository courseRepository;
